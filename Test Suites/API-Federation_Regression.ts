@@ -63,7 +63,11 @@
    <testCaseLink>
       <guid>ec7135ef-b728-43ce-97b0-e4830f484ccb</guid>
       <isReuseDriver>false</isReuseDriver>
+<<<<<<< HEAD
       <isRun>true</isRun>
+=======
+      <isRun>false</isRun>
+>>>>>>> 23b190c3e... Resolved 2/3 issues in the Federation api response comp
       <testCaseId>Test Cases/API/Federation/Response_Comparison_AL_vs_Nodes/File_Counts/TC02_API_Federation_FilesCountBySize</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
